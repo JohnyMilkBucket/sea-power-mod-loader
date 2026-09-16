@@ -139,3 +139,16 @@ run entirely on your machine, need no account, and are free. Anything that needs
 behind it is the exception, and is priced accordingly.
 
 The Sea Power Mod Loader is not affiliated with or endorsed by the developers of Sea Power.
+
+## Licence
+
+Apache License 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+Use it, read it, fork it, ship your own build. Two things the licence asks in return: say
+what you changed if you distribute a modified version, and do not use the Helios name or
+marks to present that version as ours. That is section 6 of the licence, not an extra
+condition.
+
+Being able to read the source is also the honest answer to the SmartScreen warning above —
+the app is not code-signed, so checking what you are about to run is the only real
+assurance on offer.
