@@ -1,0 +1,21 @@
+# Build output. The exe is a release artifact, not source — it is ~12 MB and
+# changes wholesale on every build, which would bloat history fast.
+/dist/
+/build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
